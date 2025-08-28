@@ -1,0 +1,7 @@
+statsforecast
+numpy
+pandas
+matplotlib
+scikit-learn
+utilsforecast
+statsmodels         
