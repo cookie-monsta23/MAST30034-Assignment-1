@@ -1,7 +1,6 @@
 # Assignment 1: NYC Taxi Congestion Analysis and Forecasting
 
 **Student:** Venura De Alwis  
-**Student ID:** 1531146
 
 ## Overview
 
