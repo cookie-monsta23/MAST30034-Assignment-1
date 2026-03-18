@@ -45,4 +45,6 @@ derby.log
 
 # Local generated/downloaded taxi parquet data
 taxi_data/
+taxi_data_55/
+*.parquet
 plots/
