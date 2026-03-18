@@ -1,6 +1,10 @@
+folium
+geopandas
+matplotlib
+notebook
 numpy
 pandas
-matplotlib
+pyspark
 scikit-learn
-utilsforecast  
+utilsforecast
 xgboost
